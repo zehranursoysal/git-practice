@@ -1,9 +1,7 @@
-# Git Practice
+# git-practice
 
-Hi! 
+Learning Git and GitHub
 
-I'm Zehranur Soysal.
+My first edit from Visual Studio Code.
 
-This repository was created to learn Git and GitHub before my summer internship.
 
-I'm excited to improve my software development skills.
